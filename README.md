@@ -4,5 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DonVadimon&exclude_repo=killer&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DonVadimon&theme=monokai)](https://git.io/streak-stats)
+
 Here are some ideas to get you started:
 - 😈 Fun fact: @DeadlySquad13 lox
